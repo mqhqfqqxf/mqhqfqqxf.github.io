@@ -1,0 +1,116 @@
+{
+  "version": 2,
+  "template_version": "7f09bfc43d72662de3f6",
+  "page_size": 20,
+  "site_id": "d9eb3f78440b3569172d6def",
+  "owner": "mqhqfqqxf",
+  "repo": "mqhqfqqxf.github.io",
+  "title": "网络加速服务",
+  "mode": "site",
+  "articles": [
+    {
+      "id": "0139b64185347a592b2e1178",
+      "a": "梦迪(MDSSCloud)",
+      "b": "网络加速服务",
+      "entity": "梦迪(MDSSCloud)",
+      "brand": "梦迪(MDSSCloud)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "d690e6efe224c201e28a10f015d43096b57cce9cab9ce72841a8661a792d60f1",
+      "content": {
+        "primary_entity": "梦迪(MDSSCloud)",
+        "keyword1": "梦迪(MDSSCloud)",
+        "keyword2": "网络加速服务",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备选择合适客户端，电脑、手机与路由器都可参照说明完成订阅配置。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLOSING_TEXT": "结合自己的设备数量与流量习惯选定套餐，再按客户端指引完成订阅导入。",
+          "AI_CLOSING_TITLE": "选好套餐开始配置",
+          "AI_DESCRIPTION": "，提供基础版、旗舰版和团队版三档套餐，分别对应不同流量额度与设备并发数量，旗舰版额外加入专线游戏加速与优先工单支持。团队版面向多人共享场景，支持企业定制路由。可按月或按年付费，按年通常更划算。",
+          "AI_FEATURES_INTRO": "从流量额度、设备数量和订阅周期三个角度，快速判断哪一档套餐更贴合日常使用。",
+          "AI_FEATURES_TITLE": "套餐选择要点",
+          "AI_FEATURE_TEXT_1": "先看每月流量额度，轻度浏览选基础版，追剧与游戏选旗舰版更从容。",
+          "AI_FEATURE_TEXT_2": "统计常用设备台数，手机、平板和电脑同时在线时注意并发上限。",
+          "AI_FEATURE_TEXT_3": "短期试用按月付费，长期稳定使用可考虑按年方案节省开支。",
+          "AI_FEATURE_TITLE_1": "流量匹配",
+          "AI_FEATURE_TITLE_2": "设备数量",
+          "AI_FEATURE_TITLE_3": "订阅周期",
+          "AI_GUIDE_INTRO": "从确认需求到完成配置，按顺序操作即可上手梦迪网络加速服务。",
+          "AI_GUIDE_TITLE": "三步完成配置",
+          "AI_HERO_INTRO": "梦迪(MDSSCloud)网络加速服务面向日常浏览、流媒体与游戏场景，提供基础版、旗舰版和团队版三档套餐，可按月或按年订阅。不同套餐在流量额度、设备并发与节点类型上有差异，适合按实际使用强度灵活选择。",
+          "AI_HERO_SUBTITLE": "按需选择套餐，轻松配置订阅",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖不同流量需求",
+          "AI_HIGHLIGHT_2": "按年付费更划算",
+          "AI_HIGHLIGHT_3": "多种设备客户端支持",
+          "AI_PLANS_INTRO": "浏览各档套餐的流量、设备数与节点差异，挑出与自己使用习惯接近的一档即可。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "结合日常流量、常用设备数量和预算，先从三档套餐中确定一档。",
+          "AI_STEP_TEXT_2": "查看该套餐对设备系统与客户端的要求，确认自己的设备在支持范围内。",
+          "AI_STEP_TEXT_3": "获取订阅信息后，按对应客户端文档导入订阅并完成连接配置。",
+          "AI_STEP_TITLE_1": "确定套餐",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "按文档配置订阅",
+          "AI_VISUAL_TITLE": "梦迪网络加速服务",
+          "AI_FAQ_ANSWER_1": "套餐按同时在线设备数量和每月流量区分。基础版设备数量较少、流量适中，旗舰版允许更多设备共用并提升额度，团队版可覆盖较多设备与较大流量。",
+          "AI_FAQ_ANSWER_2": "可以。按年付费比按月支付更划算，三个版本都提供年付选项，适合确定长期使用的用户。",
+          "AI_FAQ_ANSWER_3": "旗舰版包含 IPLC 专线节点，针对游戏加速优化，也提供全节点原生流媒体解锁。基础版仅解锁基础流媒体并使用普通线路节点池。",
+          "AI_FAQ_ANSWER_4": "在对应客户端中导入订阅链接后，软件会自动获取节点列表。切换线路时选择延迟较低的节点即可，如需流媒体可在解锁节点中挑选。",
+          "AI_FAQ_ANSWER_5": "团队版支持企业定制路由，并提供专属客户经理服务，适合需要统一管理多台设备或多人共享的小型团队使用。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "梦迪MDSSCloud的套餐如何区分设备数量和流量？",
+          "AI_FAQ_QUESTION_2": "是否支持按年付费？",
+          "AI_FAQ_QUESTION_3": "旗舰版和基础版在节点线路上有什么区别？",
+          "AI_FAQ_QUESTION_4": "如何把订阅导入客户端？",
+          "AI_FAQ_QUESTION_5": "团队版适合什么场景使用？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "b1e36bad23442ecb4446da53b0e58d46da9b1c718ce4439a8800c826981f8699",
+    "sitemap.xml": "ba8a570c9a508957f45b9740de61640bbd6a735556bf0e3cf6439bbd05012864",
+    "robots.txt": "6552ce84b5047f490dc4f73080d01946973578e329cbbcc7e5b89ab49815c502",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "eb800fe6e7cd59656045d2ea1b9276fe957b980898439fc1983ef324638735e9"
+}
